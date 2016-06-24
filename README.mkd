@@ -1,0 +1,15 @@
+#Basic Git Projet
+
+##index.html
+* Create a HTML file
+* Add a link for stylesheet.css
+* Add a script for app.js
+* Add a basic header
+
+##app.js
+* Create a .js file
+* Add a simple console.log() to show functionality
+
+##stylesheet.css
+* Create a .css file
+* Add two rule sets for a little style
